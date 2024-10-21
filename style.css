@@ -20,7 +20,7 @@ header {
     font-size: 2.5rem;
     font-weight: 600;
     box-shadow: 0 3px 5px #00000046;
-    color: #242322;
+    color: #7c7d2d;
 }
 
 main {
@@ -38,6 +38,7 @@ main {
 .title {
     font-size: 3rem;
     font-weight: 900;
+    color: #7c7d2d;
 }
 
 main button {
