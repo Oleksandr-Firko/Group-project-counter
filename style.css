@@ -53,3 +53,7 @@ main button {
     font-weight: 600;
     color: red;
 }
+#plus {
+    background-color: indianred;
+    border: 1px solid red;
+}
